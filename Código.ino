@@ -1,4 +1,3 @@
-// VALORES FIXOS
 #define PINO_DIR 3
 #define PINO_STEP 2
 
@@ -9,13 +8,12 @@
 #define ESTADO_RECUO  2
 #define ESTADO_PAUSA  3
 
-//CONFIGURACOES
+
 int ciclos_pausa = 500;
 int passos_percurso = 1000;
 int etapa = 0;
 
 
-//VARIAVEIS
 int estado_atual = ESTADO_PAUSA;
 
 void setup() {
@@ -42,9 +40,7 @@ void loop() {
 }
 
 void processaPausa(){
-  //INCREMENTAR A ETAPA
   etapa++;
-  // se esperou oq precisava avance o estado
   if(etapa>ciclos_pausa){
     estado_atual = ESTADO_AVANCO;
     etapa = 0;
