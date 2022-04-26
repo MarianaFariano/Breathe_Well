@@ -1,6 +1,6 @@
 # Respirador Breathe Well
 
-Esse é um projeto feito através da @Casa_Hacker em colaboração com diversas unidades que visão o desenvolvimento intelectual e tecnológico de diversos alunos que apresentaram o projeto no dia 24/04/22.
+Esse é um projeto feito através da @Casa_Hacker em colaboração com diversas unidades que visam o desenvolvimento intelectual e tecnológico de diversos alunos que apresentaram o projeto no dia 24/04/22.
 
 
 ![](img/respirador.jpeg)
