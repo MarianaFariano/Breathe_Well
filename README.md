@@ -14,10 +14,7 @@
 ### **Alunos**: 
 * ### Mariana Fariano Gonçalves 
 * ### Nicolly Vanessa 
-* ### Leticia Bandeira 
-* ### Sara Vitoria 
-* ### Evelyn Beatriz 
-* ### Pedro Renan
+* ### Outros
 
 <br>
 
