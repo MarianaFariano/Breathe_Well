@@ -17,7 +17,6 @@
 * ### Outros
 
 <br>
-
 ### **Orientadores**: Douglas Esteves, Fabio Souza, Bruno Agrofoglio, Rafael Estevam, Diana Santos, Matheus de Luca, Luís Henrique, Lucas Kamp.
 
 <br>
@@ -27,7 +26,7 @@
 ![](img/apresentacao-respirador-breathe-well.gif)
 
 
- :arrow_down:  :arrow_down:  :arrow_down:
+ :arrow_down:  :arrow_down:  
 
 [Apresentação Respirador Breathe Well](https://www.canva.com/design/DAE-wdh7uSA/UKtB_Q2I7qD-B3DgXVNbmg/view?utm_content=DAE-wdh7uSA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
