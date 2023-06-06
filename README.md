@@ -17,6 +17,7 @@
 * ### Outros
 
 <br>
+
 ### **Orientadores**: Douglas Esteves, Fabio Souza, Bruno Agrofoglio, Rafael Estevam, Diana Santos, Matheus de Luca, Luís Henrique, Lucas Kamp.
 
 <br>
